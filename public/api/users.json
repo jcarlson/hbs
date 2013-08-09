@@ -1,0 +1,52 @@
+[
+    {
+        "email": "elijah@pfeffer.net",
+        "id": 1,
+        "name": "Makenzie Gulgowski"
+    },
+    {
+        "email": "bethany_rodriguez@murphy.net",
+        "id": 2,
+        "name": "Sasha Crist"
+    },
+    {
+        "email": "selmer_orn@murray.net",
+        "id": 3,
+        "name": "Paula White"
+    },
+    {
+        "email": "hilma@bogisich.com",
+        "id": 4,
+        "name": "Mrs. Junior Cremin"
+    },
+    {
+        "email": "moie.schulist@rodriguezmraz.com",
+        "id": 5,
+        "name": "Mr. Germaine Heathcote"
+    },
+    {
+        "email": "betsy.lueilwitz@nicolas.name",
+        "id": 6,
+        "name": "Wilford Dach"
+    },
+    {
+        "email": "lucie@ziemann.org",
+        "id": 7,
+        "name": "Ike Hayes IV"
+    },
+    {
+        "email": "dejon@davis.org",
+        "id": 8,
+        "name": "Myron Hahn"
+    },
+    {
+        "email": "aurelie_hills@kozey.biz",
+        "id": 9,
+        "name": "Helmer Runolfsdottir Sr."
+    },
+    {
+        "email": "derick@wiza.net",
+        "id": 10,
+        "name": "Brycen Simonis"
+    }
+]
