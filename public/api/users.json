@@ -2,51 +2,61 @@
     {
         "email": "elijah@pfeffer.net",
         "id": 1,
-        "name": "Makenzie Gulgowski"
+        "name": "Makenzie Gulgowski",
+        "registrationType": "presenter"
     },
     {
         "email": "bethany_rodriguez@murphy.net",
         "id": 2,
-        "name": "Sasha Crist"
+        "name": "Sasha Crist",
+        "registrationType": "presenter"
     },
     {
         "email": "selmer_orn@murray.net",
         "id": 3,
-        "name": "Paula White"
+        "name": "Paula White",
+        "registrationType": "attendee"
     },
     {
         "email": "hilma@bogisich.com",
         "id": 4,
-        "name": "Mrs. Junior Cremin"
+        "name": "Mrs. Junior Cremin",
+        "registrationType": "attendee"
     },
     {
         "email": "moie.schulist@rodriguezmraz.com",
         "id": 5,
-        "name": "Mr. Germaine Heathcote"
+        "name": "Mr. Germaine Heathcote",
+        "registrationType": "presenter"
     },
     {
         "email": "betsy.lueilwitz@nicolas.name",
         "id": 6,
-        "name": "Wilford Dach"
+        "name": "Wilford Dach",
+        "registrationType": "attendee"
     },
     {
         "email": "lucie@ziemann.org",
         "id": 7,
-        "name": "Ike Hayes IV"
+        "name": "Ike Hayes IV",
+        "registrationType": "attendee"
     },
     {
         "email": "dejon@davis.org",
         "id": 8,
-        "name": "Myron Hahn"
+        "name": "Myron Hahn",
+        "registrationType": "attendee"
     },
     {
         "email": "aurelie_hills@kozey.biz",
         "id": 9,
-        "name": "Helmer Runolfsdottir Sr."
+        "name": "Helmer Runolfsdottir Sr.",
+        "registrationType": "attendee"
     },
     {
         "email": "derick@wiza.net",
         "id": 10,
-        "name": "Brycen Simonis"
+        "name": "Brycen Simonis",
+        "registrationType": "attendee"
     }
 ]
