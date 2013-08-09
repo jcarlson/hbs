@@ -1,1 +1,70 @@
-<h1>Hello, world!</h1>
+<div class="row">
+  <div class="span12">
+    <h1>Dojo Attendees</h1>
+  </div>
+</div>
+
+<div class="row">
+  <table class="table table-condensed span12">
+    <tr>
+      <th>Name</th>
+      <th>Email</th>
+      <th>Presenting?</th>
+      <th>Actions</th>
+    </tr>
+
+    <tr>
+      <td>Firsty Lasty</td>
+      <td><a href="mailto:email@domain.com">email@domain.com</a></td>
+      <td>
+        <a data-toggle="tooltip" title="Ruby/Rails">Yes</a>
+      </td>
+      <td>
+        <a class="btn btn-mini btn-link"><i class="icon-pencil"></i></a>
+        <a class="btn btn-mini btn-link"><i class="icon-trash"></i></a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>Firsty Lasty</td>
+      <td><a href="mailto:email@domain.com">email@domain.com</a></td>
+      <td>
+        <a data-toggle="tooltip" title="iOS/Objective-C">Yes</a>
+      </td>
+      <td>
+        <a class="btn btn-mini btn-link"><i class="icon-pencil"></i></a>
+        <a class="btn btn-mini btn-link"><i class="icon-trash"></i></a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>Firsty Lasty</td>
+      <td><a href="mailto:email@domain.com">email@domain.com</a></td>
+      <td>No</td>
+      <td>
+        <a class="btn btn-mini btn-link"><i class="icon-pencil"></i></a>
+        <a class="btn btn-mini btn-link"><i class="icon-trash"></i></a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <input type="text" name="name" placeholder="name" required />
+      </td>
+      <td>
+        <input type="email" name="email" placeholder="email" required />
+      </td>
+      <td>
+        <label class="checkbox"><input type="checkbox" /> Present a topic?</label>
+      <td>
+        <a class="btn btn-primary">Signup</a>
+      </td>
+    </tr>
+
+
+  </table>
+
+  <script type="text/javascript">
+    $('[data-toggle="tooltip"]').tooltip()
+  </script>
+</div>
