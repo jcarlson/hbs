@@ -16,6 +16,8 @@
 #= require handlebars.runtime
 #= require_tree .
 
+renderUsers = (users) ->
+
 $ ->
   $.ajax 'api/users.json',
-    success: (users) -> console.log(arguments)
+    success: renderUsers
